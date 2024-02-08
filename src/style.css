@@ -1,0 +1,28 @@
+
+.card1{
+    background-color: pink;
+}
+
+.card2{
+    background-color: aqua;
+}
+
+.card3{
+    background-color: rgb(190, 61, 229);
+}
+
+.card4{
+    background-color: rgb(189, 225, 25);
+}
+
+span{
+    margin-left:10px;
+}
+
+.graphs{
+    display: flex;
+}
+
+.add-btn{
+    width: 170px;
+}
